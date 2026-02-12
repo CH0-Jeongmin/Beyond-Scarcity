@@ -5,7 +5,7 @@ _____
 
 **Log: 2026-02-12 (Project Launch)**
 
-**Phrase 1: The Spark**  
+**Phase 1: The Spark**  
 This project originated from a question I had during an Economics class about the concept of 'Infinite Power'. I am starting this record to preserve the ideas I once shared to my teacher and the subsequent physical and psychological inquiries it inspired.
 
 **Key Questions:**
