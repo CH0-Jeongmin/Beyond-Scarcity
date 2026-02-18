@@ -11,7 +11,7 @@ This project originated from a question I had during an Economics class about th
 **Key Questions:**
 1) Why does energy scarcity exist if energy is conserved?
 2) Can I redefine the term 'Infinity' to 'Practical Infinity'?
-3) Can the gradient of space-time warping enable the conversion og gravitational potential energy(GPE)?
+3) Can the gradient of space-time warping enable the conversion of gravitational potential energy(GPE)?
 _____
 <details> 
   
