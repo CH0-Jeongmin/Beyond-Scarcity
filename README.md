@@ -47,7 +47,7 @@ _____
 ​Verdict: Impossible. Too evenly distributed and extremely hard to harvest.
 
 [4]
-​- Proposal: What if we define it from a human perspective?: "Practical Infinity"
+- Proposal: What if we define it from a human perspective?: "Practical Infinity"
 - ​If a resource outlasts human timescales (like Solar or Renewables), can we practically call it infinite?
 
 [5]
