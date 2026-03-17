@@ -19,14 +19,15 @@ _____
 ![Screenshot_20260212_103854_Gmail](https://github.com/user-attachments/assets/d075f4c2-63c1-4c13-abcd-09366d2554db)  
 
 *Reply from the teacher*
-![Screenshot_20260212_103936_Gmail](https://github.com/user-attachments/assets/f9f20e08-88ca-4c2b-9878-49541c4933c9)  
+![Screenshot_20260212_103936_Gmail](https://github.com/user-attachments/assets/f9f20e08-88ca-4c2b-9878-49541c4933c9)
 
 *Further Inquiry*
 ![Screenshot_20260212_104000_Gmail](https://github.com/user-attachments/assets/ed5e16d2-d851-42b5-bdb1-6a679440755b)
+
 </details>
 _____
 
-**The Intellectual Journey**
+**Phase 2: The Intellectual Journey**
 
 [1]
 - ​Started with a casual chat about 'Infinite Power' during Econ class.
@@ -65,3 +66,9 @@ _____
 
 [8] Conclusion
 - Practical Infinity is theoretically feasible if we overcome technical hurdles.
+
+---
+
+**Log: 2026-03-17 (Logical Expansion)**
+
+**Phase 3: Changes in Economy**
