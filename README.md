@@ -13,12 +13,13 @@ This project originated from a question I had during an Economics class about th
 
 **The memes about Infinite Power that initiated this project**
 
+*Vampire-Powered Piston Engine*
+
 ![Screenshot_20260322_182346_Gallery.jpg](https://github.com/user-attachments/assets/ed93fdb4-b1f6-41e6-a431-29f9672a3ee4)
 
+*Perpetual Motion Battery*
 
 ![1000031672.jpg](https://github.com/user-attachments/assets/0ac58cd3-7830-4fe4-99d9-0e21021cfd1f)
-
-
 
 </details>
 
