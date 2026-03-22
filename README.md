@@ -13,9 +13,9 @@ This project originated from a question I had during an Economics class about th
 
 **The memes about Infinite Power that initiated this project**
 
-![1000031672.jpg](https://github.com/user-attachments/assets/c7e6cb00-5401-4ca0-bf7e-6b8100af0f80)
+![Image](https://github.com/user-attachments/assets/92e72de7-877e-4773-bbb3-fc20017f16ab)
 
-![Screenshot_20260322_182346_Gallery.jpg](https://github.com/user-attachments/assets/2cdee79f-7b91-4a44-90a7-cb3e035ee28f)
+![Image](https://github.com/user-attachments/assets/c87f27a0-d586-4937-b75b-87535cced175)
 
 </details>
 
