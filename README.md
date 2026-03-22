@@ -106,9 +106,9 @@ Human civilization will face the death of currency.
 
 **​[The Shift of Scarcity]**
 
-​- *From Physical Goods to Intangible Assets:* While energy becomes infinite, Real Estate and Human Time remain finite.
+- **From Physical Goods to Intangible Assets:** While energy becomes infinite, Real Estate and Human Time remain finite.
 
-- ​*The New Standard of Value:* In this era, money is replaced by Attention, Emotional Exchange, and Unique Experiences.
+- ​**The New Standard of Value:** In this era, money is replaced by Attention, Emotional Exchange, and Unique Experiences.
 
-- ​*Labor as Self-Actualization:* Labor is no longer a tool for survival but a medium for Self-Expression. The scarcity shifts from "What we have" to "How we spend our limited lifespan."
+- ​**Labor as Self-Actualization:** Labor is no longer a tool for survival but a medium for Self-Expression. The scarcity shifts from "What we have" to "How we spend our limited lifespan."
 
