@@ -46,7 +46,7 @@ This project originated from a question I had during an Economics class about th
 
 _____
 
-**Phase 2: The Intellectual Journey**
+**Phase 2: The Intellectual Journey [1-8]**
 
 [1]
 - ​Started with a casual chat about 'Infinite Power' during Econ class.
@@ -93,4 +93,22 @@ _____
 **Phase 3: Changes in Economy**
 Conceptualizing the transition from physical limit to the 'Zero-Marginal Cost'.
 
-[Hypothesis]
+**Key Questions:**
+1) Why does money lose its value when energy is infinite?
+2) What will remain finite and valuable?
+3) Will the gap between the rich and the poor vanish, or will it be more extreme?
+
+**[Hypothesis]**
+
+Human civilization will face the death of currency.
+
+-> Since every goods and services fundamantally require energy expenditure, a world with infinite energy reduces the marginal cost of production to near-zero.
+
+**​[The Shift of Scarcity]**
+
+​- *From Physical Goods to Intangible Assets:* While energy becomes infinite, Real Estate and Human Time remain finite.
+
+- ​*The New Standard of Value:* In this era, money is replaced by Attention, Emotional Exchange, and Unique Experiences.
+
+- ​*Labor as Self-Actualization:* Labor is no longer a tool for survival but a medium for Self-Expression. The scarcity shifts from "What we have" to "How we spend our limited lifespan."
+
