@@ -13,9 +13,9 @@ This project originated from a question I had during an Economics class about th
 
 **The memes about Infinite Power that initiated this project**
 
-![Image](https://github.com/user-attachments/assets/92e72de7-877e-4773-bbb3-fc20017f16ab)
+<a href="(https://github.com/user-attachments/assets/92e72de7-877e-4773-bbb3-fc20017f16ab)">(https://github.com/user-attachments/assets/92e72de7-877e-4773-bbb3-fc20017f16ab)</a>
 
-![Image](https://github.com/user-attachments/assets/c87f27a0-d586-4937-b75b-87535cced175)
+<a href="(https://github.com/user-attachments/assets/c87f27a0-d586-4937-b75b-87535cced175)">(https://github.com/user-attachments/assets/c87f27a0-d586-4937-b75b-87535cced175)</a>
 
 </details>
 
@@ -25,14 +25,17 @@ This project originated from a question I had during an Economics class about th
 3) Can the gradient of space-time warping enable the conversion of gravitational potential energy(GPE)?
 
 <details> 
-  
+
 *The Original Inquiry*
+
 ![Screenshot_20260212_103854_Gmail](https://github.com/user-attachments/assets/d075f4c2-63c1-4c13-abcd-09366d2554db)  
 
 *Reply from the teacher*
+
 ![Screenshot_20260212_103936_Gmail](https://github.com/user-attachments/assets/f9f20e08-88ca-4c2b-9878-49541c4933c9)
 
 *Further Inquiry*
+
 ![Screenshot_20260212_104000_Gmail](https://github.com/user-attachments/assets/ed5e16d2-d851-42b5-bdb1-6a679440755b)
 
 </details>
