@@ -7,6 +7,15 @@ _____
 
 **Phase 1: The Spark**  
 This project originated from a question I had during an Economics class about the concept of 'Infinite Power'. I am starting this record to preserve the ideas I once shared to my teacher and the subsequent physical and psychological inquiries it inspired.
+<details>
+
+**The memes about Infinite Power that initiated this project**
+
+https://drive.google.com/file/d/1tE6jhpA1jhMEzFlQWRbOLlp1yVbOmw41/view?usp=drivesdk
+
+https://drive.google.com/file/d/1JRP_T2xMsMo5Jo9dlgqQ64fTzLrBx5qM/view?usp=drivesdk
+
+</details>
 
 **Key Questions:**
 1) Why does energy scarcity exist if energy is conserved?
@@ -69,6 +78,9 @@ _____
 
 ---
 
-**Log: 2026-03-17 (Logical Expansion)**
+**Log: 2026-03-22 (Logical Expansion) > Drafted on 03-17**
 
 **Phase 3: Changes in Economy**
+Conceptualizing the transition from physical limit to the 'Zero-Marginal Cost'.
+
+[Hypothesis]
