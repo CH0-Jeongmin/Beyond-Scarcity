@@ -11,9 +11,9 @@ This project originated from a question I had during an Economics class about th
 
 **The memes about Infinite Power that initiated this project**
 
-https://drive.google.com/file/d/1tE6jhpA1jhMEzFlQWRbOLlp1yVbOmw41/view?usp=drivesdk
+1000031672.jpg - jeongmin@jogjacommunityschool.org https://share.google/ANVUXc4P7Xz7FtQQG
 
-https://drive.google.com/file/d/1JRP_T2xMsMo5Jo9dlgqQ64fTzLrBx5qM/view?usp=drivesdk
+1000031674.jpg - jeongmin@jogjacommunityschool.org https://share.google/fMqaArFEXq9wGO3tc
 
 </details>
 
