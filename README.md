@@ -13,11 +13,9 @@ This project originated from a question I had during an Economics class about th
 
 **The memes about Infinite Power that initiated this project**
 
+![1000031672.jpg](https://github.com/user-attachments/assets/c7e6cb00-5401-4ca0-bf7e-6b8100af0f80)
 
-![how-do-you-think-guys-could-a-hybrid-permantly-die-v0-1jq686u7m2gc1.jpeg](https://github.com/user-attachments/assets/30d4f4cd-3656-45aa-a5b0-bac9f83b9cf9)
-
-
-![18f65da8e751307e9.jpg](https://github.com/user-attachments/assets/f251e4cb-1a4f-4bcf-b85c-c361d15781be)
+![Screenshot_20260322_182346_Gallery.jpg](https://github.com/user-attachments/assets/2cdee79f-7b91-4a44-90a7-cb3e035ee28f)
 
 </details>
 
