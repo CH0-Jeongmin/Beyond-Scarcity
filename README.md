@@ -11,9 +11,7 @@ This project originated from a question I had during an Economics class about th
 
 **The memes about Infinite Power that initiated this project**
 
-1000031672.jpg - jeongmin@jogjacommunityschool.org https://share.google/ANVUXc4P7Xz7FtQQG
 
-1000031674.jpg - jeongmin@jogjacommunityschool.org https://share.google/fMqaArFEXq9wGO3tc
 
 </details>
 
@@ -21,7 +19,7 @@ This project originated from a question I had during an Economics class about th
 1) Why does energy scarcity exist if energy is conserved?
 2) Can I redefine the term 'Infinity' to 'Practical Infinity'?
 3) Can the gradient of space-time warping enable the conversion of gravitational potential energy(GPE)?
-_____
+
 <details> 
   
 *The Original Inquiry*
@@ -34,6 +32,7 @@ _____
 ![Screenshot_20260212_104000_Gmail](https://github.com/user-attachments/assets/ed5e16d2-d851-42b5-bdb1-6a679440755b)
 
 </details>
+
 _____
 
 **Phase 2: The Intellectual Journey**
@@ -78,7 +77,7 @@ _____
 
 ---
 
-**Log: 2026-03-22 (Logical Expansion) > Drafted on 03-17**
+**Log: 2026-03-22 (Logical Expansion)** > Drafted on 03-17
 
 **Phase 3: Changes in Economy**
 Conceptualizing the transition from physical limit to the 'Zero-Marginal Cost'.
