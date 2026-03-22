@@ -8,11 +8,14 @@ _____
 
 **Phase 1: The Spark**  
 This project originated from a question I had during an Economics class about the concept of 'Infinite Power'. I am starting this record to preserve the ideas I once shared to my teacher and the subsequent physical and psychological inquiries it inspired.
+
 <details>
 
 **The memes about Infinite Power that initiated this project**
 
+
 ![how-do-you-think-guys-could-a-hybrid-permantly-die-v0-1jq686u7m2gc1.jpeg](https://github.com/user-attachments/assets/30d4f4cd-3656-45aa-a5b0-bac9f83b9cf9)
+
 
 ![18f65da8e751307e9.jpg](https://github.com/user-attachments/assets/f251e4cb-1a4f-4bcf-b85c-c361d15781be)
 
