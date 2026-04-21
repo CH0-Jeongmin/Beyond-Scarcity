@@ -54,9 +54,9 @@ _____
 
 [2]
 - Hypothesis 1: Are plants infinite power sources due to gas exchange?
-Reality Check: No. Absolutely dependent on external nutrients and light energy.
--​ Hypothesis 2: Is Earth a closed, infinite cycle?
-​Reality Check: No. Energy quality degrades into heat. (Encountered Entropy).
+	Reality Check: No. Absolutely dependent on external nutrients and light energy.
+- Hypothesis 2: Is Earth a closed, infinite cycle?
+​	Reality Check: No. Energy quality degrades into heat. (Encountered Entropy).
 - ​Realization: "Energy Depletion" isn't about energy disappearing; it's about the lack of useful energy.
 
 [3]
